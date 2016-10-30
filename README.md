@@ -26,6 +26,12 @@ https://github.com/log2timeline/dfvfs/issues/82
 
 ## File format support
 
+* Create a library to read Windows Minidump (MDMP) format (https://github.com/libyal/libmdmp) 
+* Create a library to read SDB
+* Create a library to read PDB
+
 ## In-file and data format support
+
+* Create a library to read Typelib
 
 ## Knowledge bases
