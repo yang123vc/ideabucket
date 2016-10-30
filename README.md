@@ -7,10 +7,10 @@ The ideabucket project contains a collection of ideas for future libyal projects
 ## Storage media image format support
 https://github.com/log2timeline/dfvfs/issues/81
 
-* Create a library to read the Mac OS X disk image formats (including encrypted FileVault 1)
+* Create a library to read the Mac OS X disk image formats (including encrypted FileVault 1) (https://github.com/libyal/libmodi)
 * Create a library to read the VirtualBox Hard Disk image format (VDI)
-* Create a library to read the Open Virtualization Format (OVF) (https://github.com/libyal/libovf/)
-* Create a library to read the Parallels Hard Disk image format (https://github.com/libyal/libphdi/)
+* Create a library to read the Open Virtualization Format (OVF) (https://github.com/libyal/libovf)
+* Create a library to read the Parallels Hard Disk image format (https://github.com/libyal/libphdi)
 
 ## Volume system format support
 https://github.com/log2timeline/dfvfs/issues/83
